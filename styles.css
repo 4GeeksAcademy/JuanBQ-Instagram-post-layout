@@ -1,0 +1,61 @@
+body {
+    background-color: black;
+    align-items: center;
+}
+
+.post {
+    margin: auto;
+    background-color: white;
+    width: 600px;
+    font-family: Roboto;
+    align-items: center;
+}
+.post-header {
+    display: flex;
+    align-items: center;
+    margin-left: 2%;
+    margin-right: 2%;
+    height: 4rem;
+}
+
+.name > p {
+    font-size: 1rem;
+    margin-top: -25%;
+    align-items: center;
+}
+
+.name > h2 {
+    margin-top: 5%;
+    font-size: 1.2rem;
+
+}
+
+.name {
+    margin:0 0 0 1%;
+    align-items: center;
+}
+
+.points {
+    margin-left: auto;
+}
+
+.fa-solid, .fa-brands, .fa-regular {
+    font-size: 2rem;
+}
+
+.post-icons {
+    margin: 0% 2% 2% 2%;
+    display: flex;
+}
+
+.reactions {
+    margin:auto;
+}
+
+.save {
+    margin-left: auto;
+}
+
+p {
+    margin: 0% 2% 2% 2%;
+}
